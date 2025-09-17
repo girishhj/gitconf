@@ -1,0 +1,4 @@
+#these files are not tracked#
+*.jar
+*.class
+
